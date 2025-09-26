@@ -1,0 +1,268 @@
+2025-09-26 11:09:48.122 [main] INFO  c.v.pedidos.PedidosApplication - Iniciando aplicação VRS Pedidos GUI...
+2025-09-26 11:09:48.714 [AWT-EventQueue-0] INFO  c.v.pedidos.PedidosApplication - Aplicação iniciada com sucesso!
+2025-09-26 11:10:21.929 [SwingWorker-pool-1-thread-7] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='3ca29797-ecaf-4ae8-90c4-2e697a7f295a', produto='Pc Desktop', quantidade=3, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 11:10:22.174 [SwingWorker-pool-1-thread-7] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 11:10:23.703 [SwingWorker-pool-1-thread-8] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 3ca29797-ecaf-4ae8-90c4-2e697a7f295a
+2025-09-26 11:10:23.719 [SwingWorker-pool-1-thread-8] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 3ca29797-ecaf-4ae8-90c4-2e697a7f295a: PROCESSANDO
+2025-09-26 11:12:29.575 [main] INFO  c.v.pedidos.PedidosApplication - Iniciando aplicação VRS Pedidos GUI...
+2025-09-26 11:12:30.016 [AWT-EventQueue-0] INFO  c.v.pedidos.PedidosApplication - Aplicação iniciada com sucesso!
+2025-09-26 11:14:09.029 [main] INFO  c.v.pedidos.PedidosApplication - Iniciando aplicação VRS Pedidos GUI...
+2025-09-26 11:14:09.446 [AWT-EventQueue-0] INFO  c.v.pedidos.PedidosApplication - Aplicação iniciada com sucesso!
+2025-09-26 11:14:27.795 [SwingWorker-pool-1-thread-4] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='8c1cab25-97bf-4f46-b3ad-cb44e380cd67', produto='Caneta', quantidade=4, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 11:14:27.859 [SwingWorker-pool-1-thread-4] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 11:14:29.427 [SwingWorker-pool-1-thread-5] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 8c1cab25-97bf-4f46-b3ad-cb44e380cd67
+2025-09-26 11:14:29.444 [SwingWorker-pool-1-thread-5] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 8c1cab25-97bf-4f46-b3ad-cb44e380cd67: PROCESSANDO
+2025-09-26 11:14:51.360 [SwingWorker-pool-1-thread-10] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='20d5e941-c870-4b2b-8242-54ed7826dc0f', produto='Caneta', quantidade=6, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 11:14:51.376 [SwingWorker-pool-1-thread-10] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 11:14:54.469 [SwingWorker-pool-1-thread-1] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 20d5e941-c870-4b2b-8242-54ed7826dc0f
+2025-09-26 11:14:54.472 [SwingWorker-pool-1-thread-1] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 20d5e941-c870-4b2b-8242-54ed7826dc0f: SUCESSO
+2025-09-26 11:15:17.961 [SwingWorker-pool-1-thread-6] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='745e277c-b1e4-4359-8e9b-cc7a5fa4f336', produto='asdf', quantidade=4, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 11:15:17.974 [SwingWorker-pool-1-thread-6] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 11:15:19.519 [SwingWorker-pool-1-thread-7] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 745e277c-b1e4-4359-8e9b-cc7a5fa4f336
+2025-09-26 11:15:19.526 [SwingWorker-pool-1-thread-7] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 745e277c-b1e4-4359-8e9b-cc7a5fa4f336: PROCESSANDO
+2025-09-26 11:16:12.975 [SwingWorker-pool-1-thread-8] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='1938e41c-393b-4295-9d9d-ef5b494df3d9', produto='asdf', quantidade=4, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 11:16:12.989 [SwingWorker-pool-1-thread-8] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 11:16:14.607 [SwingWorker-pool-1-thread-9] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 1938e41c-393b-4295-9d9d-ef5b494df3d9
+2025-09-26 11:16:14.609 [SwingWorker-pool-1-thread-9] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 1938e41c-393b-4295-9d9d-ef5b494df3d9: PROCESSANDO
+2025-09-26 11:19:30.496 [SwingWorker-pool-1-thread-9] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='4ad615d1-8acd-4fde-b13a-3de9ecd9cf11', produto='asdf', quantidade=4, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 11:19:30.504 [SwingWorker-pool-1-thread-9] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 11:19:34.937 [SwingWorker-pool-1-thread-10] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 4ad615d1-8acd-4fde-b13a-3de9ecd9cf11
+2025-09-26 11:19:34.942 [SwingWorker-pool-1-thread-10] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 4ad615d1-8acd-4fde-b13a-3de9ecd9cf11: SUCESSO
+2025-09-26 11:33:20.407 [main] INFO  c.v.pedidos.PedidosApplication - Iniciando aplicação VRS Pedidos GUI...
+2025-09-26 11:33:20.847 [AWT-EventQueue-0] INFO  c.v.pedidos.PedidosApplication - Aplicação iniciada com sucesso!
+2025-09-26 11:33:30.927 [SwingWorker-pool-1-thread-3] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='bdc23ccd-d8ff-4f00-a678-6ae0ecc77acd', produto='asdf', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 11:33:30.990 [SwingWorker-pool-1-thread-3] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 11:33:35.827 [SwingWorker-pool-1-thread-4] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: bdc23ccd-d8ff-4f00-a678-6ae0ecc77acd
+2025-09-26 11:33:35.845 [SwingWorker-pool-1-thread-4] DEBUG c.v.pedidos.service.PedidoService - Status do pedido bdc23ccd-d8ff-4f00-a678-6ae0ecc77acd: SUCESSO
+2025-09-26 11:33:41.815 [SwingWorker-pool-1-thread-6] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='96af0b5b-e5eb-4fb3-8d47-247ce13f3559', produto='asdf', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 11:33:41.841 [SwingWorker-pool-1-thread-6] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 11:33:45.836 [SwingWorker-pool-1-thread-7] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 96af0b5b-e5eb-4fb3-8d47-247ce13f3559
+2025-09-26 11:33:45.840 [SwingWorker-pool-1-thread-7] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 96af0b5b-e5eb-4fb3-8d47-247ce13f3559: SUCESSO
+2025-09-26 11:33:50.941 [SwingWorker-pool-1-thread-9] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='bc37f0cf-fbd3-4c96-85fe-546a540505b8', produto='asdf', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 11:33:50.952 [SwingWorker-pool-1-thread-9] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 11:33:55.852 [SwingWorker-pool-1-thread-10] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: bc37f0cf-fbd3-4c96-85fe-546a540505b8
+2025-09-26 11:33:55.855 [SwingWorker-pool-1-thread-10] DEBUG c.v.pedidos.service.PedidoService - Status do pedido bc37f0cf-fbd3-4c96-85fe-546a540505b8: SUCESSO
+2025-09-26 11:34:01.107 [SwingWorker-pool-1-thread-2] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='2cd568d6-bf98-47a2-a90b-c54fef671624', produto='asdf', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 11:34:01.128 [SwingWorker-pool-1-thread-2] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 11:34:05.883 [SwingWorker-pool-1-thread-3] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 2cd568d6-bf98-47a2-a90b-c54fef671624
+2025-09-26 11:34:05.888 [SwingWorker-pool-1-thread-3] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 2cd568d6-bf98-47a2-a90b-c54fef671624: SUCESSO
+2025-09-26 11:34:10.845 [SwingWorker-pool-1-thread-4] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='52225be6-28da-41bd-b8d4-65050312d151', produto='asdf', quantidade=2, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 11:34:10.863 [SwingWorker-pool-1-thread-4] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 11:34:10.921 [SwingWorker-pool-1-thread-5] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 52225be6-28da-41bd-b8d4-65050312d151
+2025-09-26 11:34:10.924 [SwingWorker-pool-1-thread-5] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 52225be6-28da-41bd-b8d4-65050312d151: PROCESSANDO
+2025-09-26 11:34:29.133 [SwingWorker-pool-1-thread-9] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='7ea8e33c-faf6-4c18-a93a-c6c96b8c2a31', produto='asdf', quantidade=2, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 11:34:29.157 [SwingWorker-pool-1-thread-9] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 11:34:30.928 [SwingWorker-pool-1-thread-10] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 7ea8e33c-faf6-4c18-a93a-c6c96b8c2a31
+2025-09-26 11:34:30.935 [SwingWorker-pool-1-thread-10] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 7ea8e33c-faf6-4c18-a93a-c6c96b8c2a31: PROCESSANDO
+2025-09-26 11:34:34.014 [SwingWorker-pool-1-thread-1] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='7ad1b27e-3a19-4a43-afdd-6abfb8719e24', produto='asdf', quantidade=2, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 11:34:34.039 [SwingWorker-pool-1-thread-1] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 11:34:35.931 [SwingWorker-pool-1-thread-2] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 7ad1b27e-3a19-4a43-afdd-6abfb8719e24
+2025-09-26 11:34:35.935 [SwingWorker-pool-1-thread-2] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 7ad1b27e-3a19-4a43-afdd-6abfb8719e24: SUCESSO
+2025-09-26 11:34:56.676 [SwingWorker-pool-1-thread-7] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='3d15ad42-df4f-462b-877f-8a12ce064143', produto='asdf', quantidade=2, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 11:34:56.688 [SwingWorker-pool-1-thread-7] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 11:35:00.958 [SwingWorker-pool-1-thread-8] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 3d15ad42-df4f-462b-877f-8a12ce064143
+2025-09-26 11:35:00.964 [SwingWorker-pool-1-thread-8] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 3d15ad42-df4f-462b-877f-8a12ce064143: SUCESSO
+2025-09-26 11:35:03.500 [SwingWorker-pool-1-thread-9] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='85e098c4-804c-4ecb-ac6d-39b38a767c16', produto='asdf', quantidade=2, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 11:35:03.522 [SwingWorker-pool-1-thread-9] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 11:35:05.972 [SwingWorker-pool-1-thread-10] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 85e098c4-804c-4ecb-ac6d-39b38a767c16
+2025-09-26 11:35:05.980 [SwingWorker-pool-1-thread-10] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 85e098c4-804c-4ecb-ac6d-39b38a767c16: PROCESSANDO
+2025-09-26 11:42:41.058 [SwingWorker-pool-1-thread-1] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='1d0e05b5-e2f9-4f3c-ab59-a0d856a16c4b', produto='ASDF', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 11:42:41.068 [SwingWorker-pool-1-thread-1] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 11:42:41.774 [SwingWorker-pool-1-thread-2] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 1d0e05b5-e2f9-4f3c-ab59-a0d856a16c4b
+2025-09-26 11:42:41.776 [SwingWorker-pool-1-thread-2] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 1d0e05b5-e2f9-4f3c-ab59-a0d856a16c4b: PROCESSANDO
+2025-09-26 11:42:43.982 [SwingWorker-pool-1-thread-3] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='565a96ce-1878-4707-9dcb-7375fb45bd32', produto='ASDF', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 11:42:43.997 [SwingWorker-pool-1-thread-3] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 11:42:46.779 [SwingWorker-pool-1-thread-4] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 565a96ce-1878-4707-9dcb-7375fb45bd32
+2025-09-26 11:42:46.782 [SwingWorker-pool-1-thread-4] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 565a96ce-1878-4707-9dcb-7375fb45bd32: SUCESSO
+2025-09-26 11:42:48.044 [SwingWorker-pool-1-thread-5] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='59603e81-7881-4ccb-8639-d114fd00249f', produto='ASDF', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 11:42:48.077 [SwingWorker-pool-1-thread-5] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 11:42:50.711 [SwingWorker-pool-1-thread-6] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='80a17c54-2ff8-4a93-bafc-f9ad39e9ee02', produto='ASDF', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 11:42:50.733 [SwingWorker-pool-1-thread-6] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 11:42:51.785 [SwingWorker-pool-1-thread-7] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 59603e81-7881-4ccb-8639-d114fd00249f
+2025-09-26 11:42:51.787 [SwingWorker-pool-1-thread-7] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 59603e81-7881-4ccb-8639-d114fd00249f: SUCESSO
+2025-09-26 11:42:51.788 [SwingWorker-pool-1-thread-7] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 80a17c54-2ff8-4a93-bafc-f9ad39e9ee02
+2025-09-26 11:42:51.789 [SwingWorker-pool-1-thread-7] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 80a17c54-2ff8-4a93-bafc-f9ad39e9ee02: PROCESSANDO
+2025-09-26 11:42:53.657 [SwingWorker-pool-1-thread-8] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='347db8f0-7662-459b-92a3-81bf067a6938', produto='ASDF', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 11:42:53.678 [SwingWorker-pool-1-thread-8] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 11:42:56.504 [SwingWorker-pool-1-thread-9] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='2208e677-3a1f-4b7b-8a49-d8dc7331f82b', produto='ASDF', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 11:42:56.524 [SwingWorker-pool-1-thread-9] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 11:42:56.786 [SwingWorker-pool-1-thread-10] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 347db8f0-7662-459b-92a3-81bf067a6938
+2025-09-26 11:42:56.792 [SwingWorker-pool-1-thread-10] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 347db8f0-7662-459b-92a3-81bf067a6938: PROCESSANDO
+2025-09-26 11:42:56.792 [SwingWorker-pool-1-thread-10] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 2208e677-3a1f-4b7b-8a49-d8dc7331f82b
+2025-09-26 11:42:56.794 [SwingWorker-pool-1-thread-10] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 2208e677-3a1f-4b7b-8a49-d8dc7331f82b: PROCESSANDO
+2025-09-26 11:42:59.343 [SwingWorker-pool-1-thread-1] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='67c27ada-fdae-4c2a-aa3a-a769673ef33a', produto='ASDF', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 11:42:59.359 [SwingWorker-pool-1-thread-1] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 11:43:01.801 [SwingWorker-pool-1-thread-2] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 67c27ada-fdae-4c2a-aa3a-a769673ef33a
+2025-09-26 11:43:01.806 [SwingWorker-pool-1-thread-2] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 67c27ada-fdae-4c2a-aa3a-a769673ef33a: PROCESSANDO
+2025-09-26 11:43:01.833 [SwingWorker-pool-1-thread-3] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='8ad50701-4589-40e3-bd01-f67ffd80b21a', produto='ASDF', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 11:43:01.853 [SwingWorker-pool-1-thread-3] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 11:43:04.627 [SwingWorker-pool-1-thread-4] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='3dd1511c-fda2-49f6-a8f2-5a9c4ff0bb2c', produto='ASDF', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 11:43:04.636 [SwingWorker-pool-1-thread-4] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 11:43:06.806 [SwingWorker-pool-1-thread-5] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 8ad50701-4589-40e3-bd01-f67ffd80b21a
+2025-09-26 11:43:06.813 [SwingWorker-pool-1-thread-5] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 8ad50701-4589-40e3-bd01-f67ffd80b21a: PROCESSANDO
+2025-09-26 11:43:06.813 [SwingWorker-pool-1-thread-5] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 3dd1511c-fda2-49f6-a8f2-5a9c4ff0bb2c
+2025-09-26 11:43:06.817 [SwingWorker-pool-1-thread-5] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 3dd1511c-fda2-49f6-a8f2-5a9c4ff0bb2c: PROCESSANDO
+2025-09-26 11:43:08.937 [SwingWorker-pool-1-thread-6] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='85dea59e-31af-41df-999a-40a32e1fd33b', produto='1AS', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 11:43:08.961 [SwingWorker-pool-1-thread-6] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 11:43:11.705 [SwingWorker-pool-1-thread-7] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='9ed0aea4-e501-4a22-b716-a650ed0b7738', produto='ASDF', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 11:43:11.720 [SwingWorker-pool-1-thread-7] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 11:43:11.820 [SwingWorker-pool-1-thread-8] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 85dea59e-31af-41df-999a-40a32e1fd33b
+2025-09-26 11:43:11.826 [SwingWorker-pool-1-thread-8] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 85dea59e-31af-41df-999a-40a32e1fd33b: PROCESSANDO
+2025-09-26 11:43:11.827 [SwingWorker-pool-1-thread-8] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 9ed0aea4-e501-4a22-b716-a650ed0b7738
+2025-09-26 11:43:11.831 [SwingWorker-pool-1-thread-8] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 9ed0aea4-e501-4a22-b716-a650ed0b7738: PROCESSANDO
+2025-09-26 11:43:18.948 [SwingWorker-pool-1-thread-10] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='e6164fa2-5eec-4138-ba45-4dd58d48798b', produto='ASDF1', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 11:43:18.966 [SwingWorker-pool-1-thread-10] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 11:43:21.834 [SwingWorker-pool-1-thread-1] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: e6164fa2-5eec-4138-ba45-4dd58d48798b
+2025-09-26 11:43:21.837 [SwingWorker-pool-1-thread-1] DEBUG c.v.pedidos.service.PedidoService - Status do pedido e6164fa2-5eec-4138-ba45-4dd58d48798b: PROCESSANDO
+2025-09-26 11:45:06.412 [SwingWorker-pool-1-thread-2] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='4ee83b7c-a9d6-4fda-be86-56f299fed89f', produto='asdf', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 11:45:06.544 [SwingWorker-pool-1-thread-2] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 11:45:07.034 [SwingWorker-pool-1-thread-3] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 4ee83b7c-a9d6-4fda-be86-56f299fed89f
+2025-09-26 11:45:07.039 [SwingWorker-pool-1-thread-3] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 4ee83b7c-a9d6-4fda-be86-56f299fed89f: PROCESSANDO
+2025-09-26 11:45:10.091 [SwingWorker-pool-1-thread-4] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='1326d9c2-5191-4fe7-bbb9-9345fc12b2c8', produto='asdf', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 11:45:10.113 [SwingWorker-pool-1-thread-4] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 11:45:12.034 [SwingWorker-pool-1-thread-5] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 1326d9c2-5191-4fe7-bbb9-9345fc12b2c8
+2025-09-26 11:45:12.040 [SwingWorker-pool-1-thread-5] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 1326d9c2-5191-4fe7-bbb9-9345fc12b2c8: PROCESSANDO
+2025-09-26 11:45:13.781 [SwingWorker-pool-1-thread-6] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='4b20ec46-2a0b-495e-a953-422602a0bfd5', produto='asdf', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 11:45:13.797 [SwingWorker-pool-1-thread-6] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 11:45:17.035 [SwingWorker-pool-1-thread-7] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 4b20ec46-2a0b-495e-a953-422602a0bfd5
+2025-09-26 11:45:17.039 [SwingWorker-pool-1-thread-7] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 4b20ec46-2a0b-495e-a953-422602a0bfd5: FALHA
+2025-09-26 11:45:22.227 [SwingWorker-pool-1-thread-9] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='31c0f1dd-4590-415b-bc7b-879ade4f5821', produto='asdf', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 11:45:22.258 [SwingWorker-pool-1-thread-9] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 11:45:25.660 [SwingWorker-pool-1-thread-10] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='dd0f8ec4-c6ce-493f-96c2-682dc12d7318', produto='asdf', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 11:45:25.692 [SwingWorker-pool-1-thread-10] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 11:45:27.049 [SwingWorker-pool-1-thread-1] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 31c0f1dd-4590-415b-bc7b-879ade4f5821
+2025-09-26 11:45:27.053 [SwingWorker-pool-1-thread-1] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 31c0f1dd-4590-415b-bc7b-879ade4f5821: FALHA
+2025-09-26 11:45:27.054 [SwingWorker-pool-1-thread-1] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: dd0f8ec4-c6ce-493f-96c2-682dc12d7318
+2025-09-26 11:45:27.054 [SwingWorker-pool-1-thread-1] DEBUG c.v.pedidos.service.PedidoService - Status do pedido dd0f8ec4-c6ce-493f-96c2-682dc12d7318: PROCESSANDO
+2025-09-26 11:45:29.171 [SwingWorker-pool-1-thread-2] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='d16383c3-119e-4588-9871-8e06161d293b', produto='asdf', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 11:45:29.195 [SwingWorker-pool-1-thread-2] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 11:45:32.054 [SwingWorker-pool-1-thread-3] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: d16383c3-119e-4588-9871-8e06161d293b
+2025-09-26 11:45:32.058 [SwingWorker-pool-1-thread-3] DEBUG c.v.pedidos.service.PedidoService - Status do pedido d16383c3-119e-4588-9871-8e06161d293b: FALHA
+2025-09-26 11:57:27.251 [main] INFO  c.v.pedidos.PedidosApplication - Iniciando aplicação VRS Pedidos GUI...
+2025-09-26 11:57:27.678 [AWT-EventQueue-0] INFO  c.v.pedidos.PedidosApplication - Aplicação iniciada com sucesso!
+2025-09-26 11:57:30.994 [SwingWorker-pool-1-thread-1] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='b4176fa4-b974-449a-9c24-69fd56131bd0', produto='ASDF', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 11:57:31.061 [SwingWorker-pool-1-thread-1] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 11:57:32.640 [SwingWorker-pool-1-thread-2] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: b4176fa4-b974-449a-9c24-69fd56131bd0
+2025-09-26 11:57:32.666 [SwingWorker-pool-1-thread-2] DEBUG c.v.pedidos.service.PedidoService - Status do pedido b4176fa4-b974-449a-9c24-69fd56131bd0: PROCESSANDO
+2025-09-26 11:57:37.655 [SwingWorker-pool-1-thread-3] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: b4176fa4-b974-449a-9c24-69fd56131bd0
+2025-09-26 11:57:37.655 [SwingWorker-pool-1-thread-3] DEBUG c.v.pedidos.service.PedidoService - Status do pedido b4176fa4-b974-449a-9c24-69fd56131bd0: FALHA
+2025-09-26 11:57:49.596 [SwingWorker-pool-1-thread-6] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='b7367253-aa1b-4927-bd62-edc213643fc4', produto='ASDF', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 11:57:49.619 [SwingWorker-pool-1-thread-6] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 11:57:52.692 [SwingWorker-pool-1-thread-7] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: b7367253-aa1b-4927-bd62-edc213643fc4
+2025-09-26 11:57:52.697 [SwingWorker-pool-1-thread-7] DEBUG c.v.pedidos.service.PedidoService - Status do pedido b7367253-aa1b-4927-bd62-edc213643fc4: FALHA
+2025-09-26 11:57:58.440 [SwingWorker-pool-1-thread-9] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='fd39de1f-cbce-41e9-b95c-f945a379e158', produto='ASDF', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 11:57:58.452 [SwingWorker-pool-1-thread-9] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 11:58:02.702 [SwingWorker-pool-1-thread-10] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: fd39de1f-cbce-41e9-b95c-f945a379e158
+2025-09-26 11:58:02.706 [SwingWorker-pool-1-thread-10] DEBUG c.v.pedidos.service.PedidoService - Status do pedido fd39de1f-cbce-41e9-b95c-f945a379e158: FALHA
+2025-09-26 11:59:02.903 [SwingWorker-pool-1-thread-3] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='4bdfbbdd-233b-4dd2-a4e3-6c33ac1e258f', produto='ASDF', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 11:59:03.033 [SwingWorker-pool-1-thread-3] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 11:59:07.816 [SwingWorker-pool-1-thread-4] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 4bdfbbdd-233b-4dd2-a4e3-6c33ac1e258f
+2025-09-26 11:59:07.821 [SwingWorker-pool-1-thread-4] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 4bdfbbdd-233b-4dd2-a4e3-6c33ac1e258f: FALHA
+2025-09-26 11:59:11.885 [SwingWorker-pool-1-thread-5] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='09a52f15-4b44-46c9-b547-aa3c6ee0dcdd', produto='ASDF', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 11:59:11.904 [SwingWorker-pool-1-thread-5] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 11:59:12.830 [SwingWorker-pool-1-thread-6] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 09a52f15-4b44-46c9-b547-aa3c6ee0dcdd
+2025-09-26 11:59:12.836 [SwingWorker-pool-1-thread-6] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 09a52f15-4b44-46c9-b547-aa3c6ee0dcdd: PROCESSANDO
+2025-09-26 11:59:17.843 [SwingWorker-pool-1-thread-7] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 09a52f15-4b44-46c9-b547-aa3c6ee0dcdd
+2025-09-26 11:59:17.844 [SwingWorker-pool-1-thread-7] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 09a52f15-4b44-46c9-b547-aa3c6ee0dcdd: SUCESSO
+2025-09-26 11:59:51.810 [SwingWorker-pool-1-thread-4] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='3be94655-0345-46e5-8742-321bb9fe7fc5', produto='ASDF', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 11:59:51.827 [SwingWorker-pool-1-thread-4] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 11:59:52.896 [SwingWorker-pool-1-thread-5] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 3be94655-0345-46e5-8742-321bb9fe7fc5
+2025-09-26 11:59:52.900 [SwingWorker-pool-1-thread-5] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 3be94655-0345-46e5-8742-321bb9fe7fc5: PROCESSANDO
+2025-09-26 11:59:57.911 [SwingWorker-pool-1-thread-6] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 3be94655-0345-46e5-8742-321bb9fe7fc5
+2025-09-26 11:59:57.912 [SwingWorker-pool-1-thread-6] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 3be94655-0345-46e5-8742-321bb9fe7fc5: FALHA
+2025-09-26 12:00:10.346 [SwingWorker-pool-1-thread-9] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='e8fc8170-fb2f-4116-bb02-9c35cf009dd3', produto='ASDF', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 12:00:10.359 [SwingWorker-pool-1-thread-9] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 12:00:12.944 [SwingWorker-pool-1-thread-10] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: e8fc8170-fb2f-4116-bb02-9c35cf009dd3
+2025-09-26 12:00:12.949 [SwingWorker-pool-1-thread-10] DEBUG c.v.pedidos.service.PedidoService - Status do pedido e8fc8170-fb2f-4116-bb02-9c35cf009dd3: PROCESSANDO
+2025-09-26 12:00:17.945 [SwingWorker-pool-1-thread-1] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: e8fc8170-fb2f-4116-bb02-9c35cf009dd3
+2025-09-26 12:00:17.951 [SwingWorker-pool-1-thread-1] DEBUG c.v.pedidos.service.PedidoService - Status do pedido e8fc8170-fb2f-4116-bb02-9c35cf009dd3: SUCESSO
+2025-09-26 12:00:23.481 [SwingWorker-pool-1-thread-3] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='870bfd94-ac84-43af-acf3-a47edd427042', produto='ASDF', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 12:00:23.503 [SwingWorker-pool-1-thread-3] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 12:00:27.967 [SwingWorker-pool-1-thread-4] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 870bfd94-ac84-43af-acf3-a47edd427042
+2025-09-26 12:00:27.970 [SwingWorker-pool-1-thread-4] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 870bfd94-ac84-43af-acf3-a47edd427042: SUCESSO
+2025-09-26 12:00:30.510 [SwingWorker-pool-1-thread-5] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='3cd888e4-6dc3-4491-9c08-b9c85d283b59', produto='ASDF', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 12:00:30.527 [SwingWorker-pool-1-thread-5] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 12:00:32.970 [SwingWorker-pool-1-thread-6] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 3cd888e4-6dc3-4491-9c08-b9c85d283b59
+2025-09-26 12:00:32.975 [SwingWorker-pool-1-thread-6] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 3cd888e4-6dc3-4491-9c08-b9c85d283b59: SUCESSO
+2025-09-26 12:00:36.127 [SwingWorker-pool-1-thread-7] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='2ee38d84-a3f8-4c50-8d6e-baffd4d467ec', produto='ASDF', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 12:00:36.154 [SwingWorker-pool-1-thread-7] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 12:00:37.984 [SwingWorker-pool-1-thread-8] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 2ee38d84-a3f8-4c50-8d6e-baffd4d467ec
+2025-09-26 12:00:37.991 [SwingWorker-pool-1-thread-8] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 2ee38d84-a3f8-4c50-8d6e-baffd4d467ec: PROCESSANDO
+2025-09-26 12:00:42.985 [SwingWorker-pool-1-thread-9] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 2ee38d84-a3f8-4c50-8d6e-baffd4d467ec
+2025-09-26 12:00:42.985 [SwingWorker-pool-1-thread-9] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 2ee38d84-a3f8-4c50-8d6e-baffd4d467ec: SUCESSO
+2025-09-26 12:01:02.053 [SwingWorker-pool-1-thread-3] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='7c0d3a38-bdcc-47fe-ab34-06d27ee17ce2', produto='ASDF', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 12:01:02.075 [SwingWorker-pool-1-thread-3] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 12:01:03.013 [SwingWorker-pool-1-thread-4] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 7c0d3a38-bdcc-47fe-ab34-06d27ee17ce2
+2025-09-26 12:01:03.013 [SwingWorker-pool-1-thread-4] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 7c0d3a38-bdcc-47fe-ab34-06d27ee17ce2: PROCESSANDO
+2025-09-26 12:01:08.024 [SwingWorker-pool-1-thread-5] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 7c0d3a38-bdcc-47fe-ab34-06d27ee17ce2
+2025-09-26 12:01:08.025 [SwingWorker-pool-1-thread-5] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 7c0d3a38-bdcc-47fe-ab34-06d27ee17ce2: SUCESSO
+2025-09-26 12:06:41.264 [main] INFO  c.v.pedidos.PedidosApplication - Iniciando aplicação VRS Pedidos GUI...
+2025-09-26 12:06:41.728 [AWT-EventQueue-0] INFO  c.v.pedidos.PedidosApplication - Aplicação iniciada com sucesso!
+2025-09-26 12:06:46.996 [SwingWorker-pool-1-thread-2] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='e8a15a5f-daa8-4a0c-a963-a7b00ab8dfd4', produto='ASDF', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 12:06:47.066 [SwingWorker-pool-1-thread-2] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 12:06:50.468 [SwingWorker-pool-1-thread-3] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='d8b67e33-5ba6-4076-89a0-8299d389f98c', produto='ASDF', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 12:06:50.487 [SwingWorker-pool-1-thread-3] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 12:06:51.700 [SwingWorker-pool-1-thread-4] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: e8a15a5f-daa8-4a0c-a963-a7b00ab8dfd4
+2025-09-26 12:06:51.715 [SwingWorker-pool-1-thread-4] DEBUG c.v.pedidos.service.PedidoService - Status do pedido e8a15a5f-daa8-4a0c-a963-a7b00ab8dfd4: SUCESSO
+2025-09-26 12:06:51.716 [SwingWorker-pool-1-thread-4] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: d8b67e33-5ba6-4076-89a0-8299d389f98c
+2025-09-26 12:06:51.720 [SwingWorker-pool-1-thread-4] DEBUG c.v.pedidos.service.PedidoService - Status do pedido d8b67e33-5ba6-4076-89a0-8299d389f98c: PROCESSANDO
+2025-09-26 12:06:53.639 [SwingWorker-pool-1-thread-5] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='32c7a5b6-10f3-4798-9cbb-2efda25742e1', produto='ASDF', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 12:06:53.652 [SwingWorker-pool-1-thread-5] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 12:06:56.705 [SwingWorker-pool-1-thread-6] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: d8b67e33-5ba6-4076-89a0-8299d389f98c
+2025-09-26 12:06:56.709 [SwingWorker-pool-1-thread-6] DEBUG c.v.pedidos.service.PedidoService - Status do pedido d8b67e33-5ba6-4076-89a0-8299d389f98c: SUCESSO
+2025-09-26 12:06:56.710 [SwingWorker-pool-1-thread-6] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 32c7a5b6-10f3-4798-9cbb-2efda25742e1
+2025-09-26 12:06:56.713 [SwingWorker-pool-1-thread-6] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 32c7a5b6-10f3-4798-9cbb-2efda25742e1: FALHA
+2025-09-26 12:19:03.798 [main] INFO  c.v.pedidos.PedidosApplication - Iniciando aplicação VRS Pedidos GUI...
+2025-09-26 12:19:04.250 [AWT-EventQueue-0] INFO  c.v.pedidos.PedidosApplication - Aplicação iniciada com sucesso!
+2025-09-26 12:19:07.639 [SwingWorker-pool-1-thread-1] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='c2c1fea7-a81a-4a20-8710-9077c6214df3', produto='asdf', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 12:19:07.706 [SwingWorker-pool-1-thread-1] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 12:19:09.206 [SwingWorker-pool-1-thread-2] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: c2c1fea7-a81a-4a20-8710-9077c6214df3
+2025-09-26 12:19:09.236 [SwingWorker-pool-1-thread-2] DEBUG c.v.pedidos.service.PedidoService - Status do pedido c2c1fea7-a81a-4a20-8710-9077c6214df3: PROCESSANDO
+2025-09-26 12:19:13.416 [SwingWorker-pool-1-thread-3] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='eaebf1e6-ba57-486e-9f89-90098d909f3f', produto='sadf', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 12:19:13.439 [SwingWorker-pool-1-thread-3] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 12:19:14.210 [SwingWorker-pool-1-thread-4] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: c2c1fea7-a81a-4a20-8710-9077c6214df3
+2025-09-26 12:19:14.213 [SwingWorker-pool-1-thread-4] DEBUG c.v.pedidos.service.PedidoService - Status do pedido c2c1fea7-a81a-4a20-8710-9077c6214df3: FALHA
+2025-09-26 12:19:14.213 [SwingWorker-pool-1-thread-4] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: eaebf1e6-ba57-486e-9f89-90098d909f3f
+2025-09-26 12:19:14.214 [SwingWorker-pool-1-thread-4] DEBUG c.v.pedidos.service.PedidoService - Status do pedido eaebf1e6-ba57-486e-9f89-90098d909f3f: PROCESSANDO
+2025-09-26 12:19:17.393 [SwingWorker-pool-1-thread-5] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='dbb5205f-fec9-4418-b34d-f2e6e592d861', produto='asf', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 12:19:17.418 [SwingWorker-pool-1-thread-5] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 12:19:19.237 [SwingWorker-pool-1-thread-6] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: eaebf1e6-ba57-486e-9f89-90098d909f3f
+2025-09-26 12:19:19.241 [SwingWorker-pool-1-thread-6] DEBUG c.v.pedidos.service.PedidoService - Status do pedido eaebf1e6-ba57-486e-9f89-90098d909f3f: SUCESSO
+2025-09-26 12:19:19.241 [SwingWorker-pool-1-thread-6] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: dbb5205f-fec9-4418-b34d-f2e6e592d861
+2025-09-26 12:19:19.243 [SwingWorker-pool-1-thread-6] DEBUG c.v.pedidos.service.PedidoService - Status do pedido dbb5205f-fec9-4418-b34d-f2e6e592d861: PROCESSANDO
+2025-09-26 12:19:20.118 [SwingWorker-pool-1-thread-7] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='42819183-f106-42ca-8860-8ef126cd708c', produto='asdf', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 12:19:20.137 [SwingWorker-pool-1-thread-7] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 12:19:22.703 [SwingWorker-pool-1-thread-8] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='99810b78-af00-4c9c-9fc0-b0967b3261ef', produto='adf', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 12:19:22.724 [SwingWorker-pool-1-thread-8] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 12:19:24.243 [SwingWorker-pool-1-thread-9] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: dbb5205f-fec9-4418-b34d-f2e6e592d861
+2025-09-26 12:19:24.244 [SwingWorker-pool-1-thread-9] DEBUG c.v.pedidos.service.PedidoService - Status do pedido dbb5205f-fec9-4418-b34d-f2e6e592d861: SUCESSO
+2025-09-26 12:19:24.244 [SwingWorker-pool-1-thread-9] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 42819183-f106-42ca-8860-8ef126cd708c
+2025-09-26 12:19:24.250 [SwingWorker-pool-1-thread-9] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 42819183-f106-42ca-8860-8ef126cd708c: SUCESSO
+2025-09-26 12:19:24.250 [SwingWorker-pool-1-thread-9] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 99810b78-af00-4c9c-9fc0-b0967b3261ef
+2025-09-26 12:19:24.252 [SwingWorker-pool-1-thread-9] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 99810b78-af00-4c9c-9fc0-b0967b3261ef: PROCESSANDO
+2025-09-26 12:19:29.254 [SwingWorker-pool-1-thread-10] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 99810b78-af00-4c9c-9fc0-b0967b3261ef
+2025-09-26 12:19:29.259 [SwingWorker-pool-1-thread-10] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 99810b78-af00-4c9c-9fc0-b0967b3261ef: SUCESSO
+2025-09-26 12:19:56.959 [main] INFO  c.v.pedidos.PedidosApplication - Iniciando aplicação VRS Pedidos GUI...
+2025-09-26 12:19:57.362 [AWT-EventQueue-0] INFO  c.v.pedidos.PedidosApplication - Aplicação iniciada com sucesso!
+2025-09-26 12:19:59.899 [SwingWorker-pool-1-thread-1] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='f0626481-7e42-4fd1-a47a-d241a5c08e2b', produto='asdf', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 12:19:59.966 [SwingWorker-pool-1-thread-1] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 12:20:02.327 [SwingWorker-pool-1-thread-2] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: f0626481-7e42-4fd1-a47a-d241a5c08e2b
+2025-09-26 12:20:02.349 [SwingWorker-pool-1-thread-2] DEBUG c.v.pedidos.service.PedidoService - Status do pedido f0626481-7e42-4fd1-a47a-d241a5c08e2b: PROCESSANDO
+2025-09-26 12:20:02.749 [SwingWorker-pool-1-thread-3] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='7ac673a8-3913-41e8-996b-08eb2007c0dc', produto='asdf', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 12:20:02.765 [SwingWorker-pool-1-thread-3] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 12:20:05.210 [SwingWorker-pool-1-thread-4] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='6407bdc2-d98a-4970-af5f-6dcd402c070a', produto='asdf', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 12:20:05.223 [SwingWorker-pool-1-thread-4] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 12:20:07.343 [SwingWorker-pool-1-thread-5] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: f0626481-7e42-4fd1-a47a-d241a5c08e2b
+2025-09-26 12:20:07.345 [SwingWorker-pool-1-thread-5] DEBUG c.v.pedidos.service.PedidoService - Status do pedido f0626481-7e42-4fd1-a47a-d241a5c08e2b: SUCESSO
+2025-09-26 12:20:07.346 [SwingWorker-pool-1-thread-5] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 7ac673a8-3913-41e8-996b-08eb2007c0dc
+2025-09-26 12:20:07.348 [SwingWorker-pool-1-thread-5] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 7ac673a8-3913-41e8-996b-08eb2007c0dc: FALHA
+2025-09-26 12:20:07.348 [SwingWorker-pool-1-thread-5] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 6407bdc2-d98a-4970-af5f-6dcd402c070a
+2025-09-26 12:20:07.350 [SwingWorker-pool-1-thread-5] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 6407bdc2-d98a-4970-af5f-6dcd402c070a: PROCESSANDO
+2025-09-26 12:20:07.754 [SwingWorker-pool-1-thread-6] INFO  c.v.pedidos.service.PedidoService - Enviando pedido: Pedido{id='63eb3e37-8261-48fa-a52d-5389436db611', produto='asdf', quantidade=1, status='ENVIADO, AGUARDANDO PROCESSO'}
+2025-09-26 12:20:07.767 [SwingWorker-pool-1-thread-6] INFO  c.v.pedidos.service.PedidoService - Pedido enviado com sucesso. Status: 202 ACCEPTED
+2025-09-26 12:20:12.350 [SwingWorker-pool-1-thread-7] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 6407bdc2-d98a-4970-af5f-6dcd402c070a
+2025-09-26 12:20:12.355 [SwingWorker-pool-1-thread-7] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 6407bdc2-d98a-4970-af5f-6dcd402c070a: SUCESSO
+2025-09-26 12:20:12.356 [SwingWorker-pool-1-thread-7] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 63eb3e37-8261-48fa-a52d-5389436db611
+2025-09-26 12:20:12.359 [SwingWorker-pool-1-thread-7] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 63eb3e37-8261-48fa-a52d-5389436db611: PROCESSANDO
+2025-09-26 12:20:17.357 [SwingWorker-pool-1-thread-8] DEBUG c.v.pedidos.service.PedidoService - Consultando status do pedido: 63eb3e37-8261-48fa-a52d-5389436db611
+2025-09-26 12:20:17.357 [SwingWorker-pool-1-thread-8] DEBUG c.v.pedidos.service.PedidoService - Status do pedido 63eb3e37-8261-48fa-a52d-5389436db611: FALHA
