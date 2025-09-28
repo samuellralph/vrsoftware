@@ -1,10 +1,11 @@
 package com.vrsoftware.vrspedidos.controller;
 
 import com.vrsoftware.vrspedidos.model.Pedido;
-import com.vrsoftware.vrspedidos.service.PedidoService;
+import com.vrsoftware.vrspedidos.service.interfaces.IPedidoService;
 import jakarta.validation.Valid;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.BindingResult;
@@ -19,12 +20,9 @@ import java.util.UUID;
 public class PedidoController {
 
     private static final Logger logger = LoggerFactory.getLogger(PedidoController.class);
-    
-    private final PedidoService pedidoService;
 
-    public PedidoController(PedidoService pedidoService) {
-        this.pedidoService = pedidoService;
-    }
+    @Autowired
+    private IPedidoService pedidoService;
 
     @PostMapping
     public ResponseEntity<?> criarPedido(@Valid @RequestBody Pedido pedido, BindingResult bindingResult) {

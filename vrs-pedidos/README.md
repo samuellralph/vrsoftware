@@ -27,9 +27,13 @@ src/main/java/com/vrsoftware/vrspedidos/
 │   ├── StatusPedido.java            # Modelo do status
 │   └── StatusEnum.java              # Enum dos status
 ├── service/
-│   ├── PedidoService.java           # Serviço principal
-│   ├── PedidoConsumerService.java   # Consumidor de pedidos
-│   └── StatusConsumerService.java   # Consumidor de status
+│   ├── interfaces/
+│   │   ├── IPedidoService.java           # Interface do serviço principal
+│   │   ├── IPedidoConsumerService.java   # Interface do consumidor de pedidos
+│   │   └── IStatusConsumerService.java   # Interface do consumidor de status
+│   ├── PedidoService.java           # Implementação do serviço principal
+│   ├── PedidoConsumerService.java   # Implementação do consumidor de pedidos
+│   └── StatusConsumerService.java   # Implementação do consumidor de status
 └── VrsPedidosApplication.java       # Classe principal
 ```
 

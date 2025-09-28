@@ -3,6 +3,7 @@ package com.vrsoftware.vrspedidos.service;
 import com.vrsoftware.vrspedidos.config.RabbitMQConfig;
 import com.vrsoftware.vrspedidos.model.Pedido;
 import com.vrsoftware.vrspedidos.model.StatusEnum;
+import com.vrsoftware.vrspedidos.service.interfaces.IPedidoService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
@@ -13,7 +14,7 @@ import java.util.UUID;
 import java.util.concurrent.ConcurrentHashMap;
 
 @Service
-public class PedidoService {
+public class PedidoService implements IPedidoService {
 
     private static final Logger logger = LoggerFactory.getLogger(PedidoService.class);
     
